@@ -1,3 +1,2 @@
-#!/bin/bash\n
-./0-hello_world | cat -e\n
-
+#!/bin/bash
+"Hello, World"\n
